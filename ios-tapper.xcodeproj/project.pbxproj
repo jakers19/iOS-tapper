@@ -286,6 +286,7 @@
 				20C56C641D83086B00E4EB21 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
